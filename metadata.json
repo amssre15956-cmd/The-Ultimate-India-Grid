@@ -1,0 +1,8 @@
+{
+  "name": "ChargeGrid India",
+  "description": "India's EV Charging Network Intelligence Platform to track charger availability, identify coverage gaps, estimate future demand, and support data-driven infrastructure decisions.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
